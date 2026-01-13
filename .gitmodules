@@ -1,0 +1,3 @@
+[submodule "LabRecorder"]
+	path = LabRecorder
+	url = https://github.com/labstreaminglayer/App-LabRecorder
